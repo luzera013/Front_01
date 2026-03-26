@@ -55,4 +55,10 @@ section article p{
 #nomedoID {
     font-family: "Verdana";
     font-size: 70px;
+    color: #422525
+}
+
+h1{
+    font-size: 30px;
+    color: #564748
 }
