@@ -46,7 +46,7 @@ section article p{
 
 /* criando classe*/
 .nomeDaClasse {
-    color: #f23442;
+    color: #f23442 !important;
     font-size: 50px;
     font-family: "Arial"
 }
