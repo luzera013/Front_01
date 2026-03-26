@@ -46,7 +46,7 @@ section article p{
 
 /* criando classe*/
 .nomeDaClasse {
-    color: #f23442;
+    color: #f23442 !important;
     font-size: 50px;
     font-family: "Arial"
 }
@@ -55,4 +55,10 @@ section article p{
 #nomedoID {
     font-family: "Verdana";
     font-size: 70px;
+    color: #422525
+}
+
+h1{
+    font-size: 30px;
+    color: #564748
 }
